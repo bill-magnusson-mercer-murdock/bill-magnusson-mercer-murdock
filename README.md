@@ -1,17 +1,19 @@
 # Harsh Singh
 
-Software Engineer & Information Science undergraduate building scalable backend systems, intelligent data pipelines, and seamless API integrations.
+Software Engineer and Information Science undergraduate focused on backend architecture, data pipelines, and intelligent API integrations.
 
 ---
 
-## About
+## About Me
 
-I specialize in backend architecture and data engineering, with a focus on crafting robust Python applications, orchestrating ETL workflows, and designing systems that connect complex data models to interactive frontends. I’m driven by solving real problems through clean code and thoughtful system design.
+I build robust Python applications, design scalable ETL workflows, and develop client-server systems that connect complex data models to interactive frontends.
 
-- 🏗️ Backend Architecture — Flask, REST APIs, client-server patterns
-- 🔄 Data Engineering — ETL pipelines, data orchestration, SQL optimization
-- 🤖 AI & Analytics — ML workflows, computer vision, data-driven insights
-- 🛠️ Systems Thinking — scalable design, workflow automation, integration strategy
+I enjoy solving real-world problems through clean architecture, automation, and thoughtful system integration.
+
+- 🏗️ Backend Architecture — Flask, RESTful APIs, client-server design
+- 🔄 Data Engineering — ETL pipelines, orchestration, SQL workflows
+- 🤖 AI & Analytics — scikit-learn, pandas, OpenCV, Power BI
+- 🛠️ Development Practices — Git/GitHub, workflow automation, Agile collaboration
 
 ---
 
@@ -43,38 +45,20 @@ I specialize in backend architecture and data engineering, with a focus on craft
 
 ---
 
-## What I Do
-
-### Backend Engineering
-Building scalable REST APIs and client-server architectures that handle complex business logic and data transformations.
-
-### Data Pipelines
-Designing and orchestrating ETL workflows that extract, transform, and load data efficiently across systems—from relational databases to analytics platforms.
-
-### System Integration
-Connecting data models, APIs, and frontends into cohesive systems that solve real problems. Integrating AI/ML capabilities for intelligent workflows.
-
-### Data Analytics
-Leveraging Python data science tools and visualization platforms to uncover insights and support decision-making.
-
----
-
 ## Current Focus
 
-- Building practical, high-impact projects
-- Improving system design and backend scalability
-- Exploring automation and integration patterns
-- Learning and applying AI-driven workflow enhancements
+- Building practical, high-impact backend and data products
+- Improving scalable system design and workflow automation
+- Exploring intelligent integrations and AI-enhanced tools
+- Continuously learning and shipping clean, maintainable software
 
 ---
 
-## Let’s Connect
-
-I’m always interested in discussing backend architecture, data engineering challenges, or collaborative opportunities.
+## Connect
 
 - GitHub: [@bill-magnusson-mercer-murdock](https://github.com/bill-magnusson-mercer-murdock)
-- Email: harsh@example.com
-- LinkedIn: [Harsh Singh](https://www.linkedin.com/in/harsh-singh)
+- Email: [harshsinghtlb@gmail.com](mailto:harshsinghtlb@gmail.com)
+- LinkedIn: [Harsh Singh](https://www.linkedin.com/in/harsh-singh-5a5382375)
 
 ---
 
